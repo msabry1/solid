@@ -21,6 +21,6 @@ public class Employee {
     }
 
     public double calculateIncomeTax(double income) {
-        return income * 0.2; // 20% income tax
+        return income * 0.2;
     }
 }
